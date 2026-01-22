@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student:  🧑‍🎓1st Year BSc(Hons) Computing at Islington College<br>Learning: 📗Fullstack  & backend Development<br>Learning path: java-Python-JavaScript-CSS-HTML-Mysql
+Student:  🧑‍🎓1st Year BSc(Hons) Computing at Islington College<br>Learning: 📗Fullstack  & backend Development<br>Learning path:💡 java-Python-JavaScript-CSS-HTML-Mysql
 
 
 ## 🌐 Socials:
